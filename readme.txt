@@ -7,7 +7,11 @@
 #第六次在lenovo上修改
 #第七次在Lenovo上修改
 <<<<<<< HEAD
+<<<<<<< HEAD
 #第八次在Lenovo上修改
 =======
 #feature-A下第一次修改(回溯错误重写的0.0)
 >>>>>>> feature-A
+=======
+#第一次在fix-B下修改
+>>>>>>> fix-B
